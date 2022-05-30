@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS
 - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS
-- 📫 How to reach me: @rdGxd
-
 
 <div>
   <a href="https://github.com/rdGxd">
