@@ -18,3 +18,10 @@
   <img align="center" alt"rdG-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt"rdG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+
+  ##
+  
+  <div>
+    [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rdGxd)]
+
+  </div>
