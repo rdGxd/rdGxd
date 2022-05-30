@@ -6,7 +6,9 @@
 
 
 
-[![rdGxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdGxd&count_private=true&show_icons=true&theme=dracula&custom_Rodrigo_GitHub)](https://github.com/rdGxd/)
+[![rdGxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdGxd&count_private=true&show_icons=true&theme=dracula)](https://github.com/rdGxd/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd)](https://github.com/rdGxd)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt"rdG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
