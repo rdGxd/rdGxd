@@ -29,4 +29,4 @@
     <a href="https://www.linkedin.com/in/rodrigo-silva-496564240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 
-![Snake animation](https://github.com/rdGxd/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rdGxd/)
