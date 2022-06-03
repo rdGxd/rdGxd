@@ -1,11 +1,11 @@
 <div align="center">
-<h1>Olá! eu sou o Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> </h1>
+<h1>Olá! eu sou o Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"></h1>
+   <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
+   </div>
 <p>
 <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif"/>
 </p>
-</div>
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
 </div>
 
 </div>
