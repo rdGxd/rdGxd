@@ -1,22 +1,29 @@
 <div align="center">
-<h2>👋 Hello, world! 👋</h2>
-   
+<h1>Olá! eu sou o Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> </h1>
+<p>
+<img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif"/>
+</p>
+</div>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
+</div>
+
 </div>
 
 <div align="center">
    <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
    - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS, React<br>
    - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS, React<br>
-   
+
    <br>
 </div>
 <div align="center">
     <img alt="rdGxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
 </div>
-   
+
 ---
 
-<div align="center"> 
+<div align="center">
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
 </div>
 
@@ -56,9 +63,5 @@
 ---
 
 ###
- 
-![Snake animation](https://github.com/rdGxd/rdGxd/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
-</div>
+![Snake animation](https://github.com/rdGxd/rdGxd/blob/output/github-contribution-grid-snake.svg)
