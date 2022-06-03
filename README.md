@@ -5,8 +5,8 @@
 
 <div align="center">
    <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-   - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS<br>
-   - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS<br>
+   - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS, React<br>
+   - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS, React<br>
    
    <br>
 </div>
@@ -26,6 +26,7 @@
    <img align="center" alt"rdG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt"rdG-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
    <img align="center" alt"rdG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="rdG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ---
