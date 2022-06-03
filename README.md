@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olá! eu sou o Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"></h1>
+<h1>Hi! I'm Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"></h1>
    <div align="center">
    <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
    </div>
