@@ -12,8 +12,8 @@
 
 <div align="center">
    <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-   - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS, React<br>
-   - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS, React<br>
+   - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS<br>
+   - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS<br>
 
    <br>
 </div>
