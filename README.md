@@ -1,12 +1,12 @@
 <div align="center">
-   <h1> 🎆Hello there</h1>
+   <h1><img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> Hello there </h1>
       <p> 
          Hey! Nice to meet you on my profile. I'll tell you a little bit about me.
       </p>
 </div>
 
 <div align="center">
-   <h2>About me</h2>
+   <h2><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h2>
       <p> 
          My name is Rodrigo. I currently live in Salvador, and I'm studying web development.
          <br>
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<h2>Contact me:</h2>
+   <h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
    <a href="https://www.linkedin.com/in/rodrigo-silva-496564240/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -34,8 +34,8 @@
 </div>
 
 
-<div style="display: inline_block" align="center">
-<h2>I currently have knowledge / I’m currently learning </h2>
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
    <img align="center" alt"rdG-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt"rdG-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt"rdG-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
