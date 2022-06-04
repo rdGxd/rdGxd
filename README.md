@@ -1,11 +1,5 @@
 <div align="center">
 <h1>Hi! I'm Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"></h1>
-   <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
-   </div>
-<p>
-<img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif"/>
-</p>
 </div>
 
 </div>
@@ -62,5 +56,9 @@
 ---
 
 ###
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
+</div>
 
 ![Snake animation](https://github.com/rdGxd/rdGxd/blob/output/github-contribution-grid-snake.svg)
