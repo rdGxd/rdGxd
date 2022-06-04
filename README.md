@@ -1,41 +1,21 @@
 <div align="center">
-<h1>Hi! I'm Rodrigo Silva <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"></h1>
-</div>
-
-</div>
-
-<div align="center">
-   <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-   - 🌱 I’m currently learning HTML, CSS, JS, NODE, TS<br>
-   - 🤔 I’m looking for help with HTML, CSS, JS, NODE, TS<br>
-
-   <br>
-</div>
-<div align="center">
-    <img alt="rdGxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
-</div>
-
----
-
-<div align="center">
-  <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
-</div>
-
-<div style="display: inline_block" align="center"><br>
-   <img align="center" alt"rdG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt"rdG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt"rdG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt"rdG-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
-   <img align="center" alt"rdG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
----
-
-<div align="center">
-   <h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
+   <h1> 🎆Hello there</h1>
+      <p> 
+         Hey! Nice to meet you on my profile. I'll tell you a little bit about me.
+      </p>
 </div>
 
 <div align="center">
+   <h2>About me</h2>
+      <p> 
+         My name is Rodrigo. I currently live in Salvador, and I'm studying web development.
+         <br>
+         In my free time, I like to play games, watch some live or series. 
+      </p>
+</div>
+
+<div align="center">
+<h2>Contact me:</h2>
    <a href="https://www.linkedin.com/in/rodrigo-silva-496564240/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -53,12 +33,30 @@
    </a>
 </div>
 
+
+<div style="display: inline_block" align="center">
+<h2>I currently have knowledge / I’m currently learning </h2>
+   <img align="center" alt"rdG-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt"rdG-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt"rdG-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img align="center" alt"rdG-NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   <img align="center" alt"rdG-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt"rdG-Git" src="https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032">
+</div>
+
+<br>
+
 ---
 
 ###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
+   <img src="https://komarev.com/ghpvc/?username=rdGxd&color=blueviolet" alt="Profile views" />
+</div>
+
+<div align="center">
+    <img alt="rdGxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
 </div>
 
 ![Snake animation](https://github.com/rdGxd/rdGxd/blob/output/github-contribution-grid-snake.svg)
+
