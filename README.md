@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-   <h2><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Meus Contatos: </h2>
+   <h2><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Meus Contatos </h2>
    <a href="https://www.linkedin.com/in/rodrigo-silva-496564240/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Linguagens e Ferramentas</h2>
+  <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Linguagens e Ferramentas </h2>
    <p>
    <h3> Conhecimentos / Estudando </h3>
    </p>
