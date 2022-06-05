@@ -6,16 +6,16 @@
 </div>
 
 <div align="center">
-   <h2><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h2>
+   <h2><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> Sobre Mim </h2>
       <p> 
-         Meu nome é Rodrigo. Atualmente moro em Salvador, e estou estudando desenvolvimento web.
+         Meu nome é Rodrigo. Atualmente moro em Salvador/BA, e estou estudando desenvolvimento web.
          <br>
          No meu tempo livre, gosto de jogar, assistir alguma live ou série. 
       </p>
 </div>
 
 <div align="center">
-   <h2><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h2>
+   <h2><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Meus Contatos: </h2>
    <a href="https://www.linkedin.com/in/rodrigo-silva-496564240/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -35,9 +35,9 @@
 
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h2>
+  <h2><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Linguagens e Ferramentas</h2>
    <p>
-   <h3> Atualmente tenho conhecimento/ Atualmente estou aprendendo/h3>
+   <h3> Conhecimentos / Estudando </h3>
    </p>
    <img align="center" alt"rdG-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt"rdG-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
