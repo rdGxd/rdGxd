@@ -1,5 +1,5 @@
 <div align="center">
-   <h1><img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> Olá Mundo! </h1>
+   <h1><img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> Olá, Mundo! </h1>
       <p> 
          Ei! Prazer em conhecê-lo no meu perfil. Vou contar um pouco sobre mim.
       </p>
