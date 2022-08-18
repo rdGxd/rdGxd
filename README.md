@@ -16,7 +16,7 @@
 
 <div align="center">
    <h2><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Meus Contatos </h2>
-      <a href="https://www.linkedin.com/in/rodrigo-silva-496564240/" target"_blank">
+      <a href="https://www.linkedin.com/in/rdgxd//" target"_blank">
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
        </a>
        <a href="mailto:rodriigo.hora@outlook.com.br">
