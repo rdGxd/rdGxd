@@ -8,7 +8,7 @@
 <div align="center">
    <h2><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> Sobre Mim </h2>
       <p> 
-         Meu nome é Rodrigo. Atualmente moro em Salvador/BA, e estou estudando desenvolvimento web.
+         Meu nome é Rodrigo. Atualmente moro em Salvador/BA, e estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas">Estácio</a>.
          <br>
          No meu tempo livre, gosto de jogar, assistir alguma live ou série. 
       </p>
