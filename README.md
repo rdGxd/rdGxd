@@ -1,4 +1,4 @@
-- 👋 Oie, eu sou a @rdGxd
+- 👋 Oie, eu sou o Rodrigo
 - 👀 Estou interessado em aprender
 - 🌱 Estou aprendendo sobre Javascript e MySQL
 - 📫 Você pode me encontrar no [contato](https://rdgxd.github.io/Social-Tree/)
