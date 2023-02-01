@@ -1,5 +1,3 @@
 - 👋 Oie, eu sou o Rodrigo e sou estudante de Análise e Desenvolvimento de Sistemas na [Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
-- 👀 Estou interessado em aprender
-- 🌱 No momento, estou aprendendo um pouco de tudo.
 - 📫 Você pode me encontrar no [contato](https://rdgxd.github.io/Social-Tree/)
-- ➕ Tecnologias que eu já conheço: HTML, CSS, Javascript, Git.
+- ➕ Linguagens e Habilidades: HTML, CSS, Javascript, Typescript.
