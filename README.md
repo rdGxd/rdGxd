@@ -2,4 +2,4 @@
 - 👀 Estou interessado em aprender
 - 🌱 Estou aprendendo sobre React, TypeScript
 - 📫 Você pode me encontrar no [Contato](https://rdgxd.github.io/Social-Tree/)
-- ➕ Tecnologias que eu já conheço: HTML, CSS, JavaScript, Git e Markdown.
+- ➕ Tecnologias que eu já conheço: HTML, CSS, JavaScript, SQL ,Git e Markdown.
