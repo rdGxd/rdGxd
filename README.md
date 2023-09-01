@@ -27,7 +27,7 @@ Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabal
 * **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio
 
 <p align="center">
-  <a href="https://github.com/Cyytrus">
+  <a href="https://github.com/rdGxd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&theme=tokyonight&hide_langs_below=1" />
   </a>
 </p>
