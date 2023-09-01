@@ -23,5 +23,11 @@ Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabal
 * **Nome**: Rodrigo Silva
 * **Idade**: 25
 * **Morando em**: Salvador - BA, Brasil
-* **Stack**: JavaScript/TypeScript - React - Tailwind - SQL
+* **Tecnologias que utilizo:**: JavaScript/TypeScript - Python - NodeJS - React - Tailwind - SQL - HTML - CSS
 * **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio
+
+<p align="center">
+  <a href="https://github.com/Cyytrus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&theme=tokyonight&hide_langs_below=1" />
+  </a>
+</p>
