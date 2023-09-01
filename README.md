@@ -1,5 +1,27 @@
-- 👋 Oie, eu sou o Rodrigo e sou estudante de Análise e Desenvolvimento de Sistemas
-- 👀 Estou interessado em aprender
-- 🌱 Estou aprendendo sobre React, Jest
-- 📫 Você pode me encontrar no [Contato](https://rdgxd.github.io/Social-Tree/)
-- ➕ Tecnologias que eu já conheço: HTML, CSS, JavaScript, TypeScript, SQL, Git
+<div>
+    <a target='_blank' href="https://twitch.tv/rdgxdd">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://twitter.com/rdGxd">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/rdgxd/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+## Olá
+
+Não sei bem como você chegou aqui, mas vou tentar mostrar um pouco sobre mim para você.
+
+## Informação pública
+
+Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabalho é criar e depois solucionar bugs
+
+## Informação detalhada
+
+* **Nome**: Rodrigo Silva
+* **Idade**: 25
+* **Morando em**: Salvador - BA, Brasil
+* **Stack**: JavaScript/TypeScript - React - Tailwind - SQL
+* **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio
