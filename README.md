@@ -29,7 +29,7 @@ Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabal
 <div align="center" justify-content="center">
 
   <a href="https://github.com/rdGxd">
-      <img height="285px" src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/rdGxd">
