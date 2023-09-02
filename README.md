@@ -26,8 +26,13 @@ Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabal
 * **Tecnologias que utilizo:**: JavaScript/TypeScript - Python - NodeJS - React - Tailwind - SQL - HTML - CSS
 * **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio
 
-<p align="center">
+<div align="center" justify-content="center">
+
   <a href="https://github.com/rdGxd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&theme=tokyonight&hide_langs_below=1" />
+      <img height="285px" src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-</p>
+
+  <a href="https://github.com/rdGxd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&theme=tokyonight&hide_langs_below=1" />
+  </a>
+</div>
