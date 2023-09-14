@@ -16,7 +16,7 @@ Não sei bem como você chegou aqui, mas vou tentar mostrar um pouco sobre mim p
 
 ## Informação pública
 
-Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabalho é criar e depois solucionar bugs
+Meu nome é Rodrigo. Atualmente moro em Salvador - BA, Brasil e meu trabalho é criar e depois solucionar bugs
 
 ## Informação detalhada
 
