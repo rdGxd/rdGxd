@@ -30,6 +30,6 @@ Meu nome é Rodrigo Silva. Atualmente moro em Salvador - BA, Brasil e meu trabal
 
 <div align="center" justify-content="center">
   <a href="https://github.com/rdGxd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&theme=dracula&hide_langs_below=1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&theme=tokyonight&hide_langs_below=1" />
   </a>
 </div>
