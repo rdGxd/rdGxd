@@ -30,15 +30,14 @@ Meu nome é Rodrigo. Atualmente moro em Salvador - BA, Brasil e meu trabalho é 
 * **Tecnologias que eu estou estudando:** React - Tailwind
 * **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio
 ---
-
-<div align="center" justify-content="center">
+<div display="flex" align="center" justify-content="center">
   <a href="https://github.com/rdGxd">
    <img  width="405em"  src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Rodrigo github stats" />
   </a>
   <a href="https://github.com/rdGxd">
-    <img width="430em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdGxd&theme=tokyonight&hide_border=true" />
+    <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdGxd&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&hide_border=true" />
   </a>
   <a href="https://github.com/rdGxd">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdGxd&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&hide_border=true" />
+    <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdGxd&theme=tokyonight&hide_border=true" />
   </a>
 </div>
