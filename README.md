@@ -1,4 +1,4 @@
-<div>
+<div display="flex" align="center" justify-content="center">
     <a target='_blank' href="mailto:rodriigo.hora@outlook.com.br">
         <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white">
     </a>
