@@ -28,7 +28,7 @@ Meu nome é Rodrigo. Atualmente moro em Salvador - BA, Brasil e meu trabalho é 
 * **Morando em**: Salvador - BA, Brasil
 * **Tecnologias que utilizo:** JavaScript/TypeScript - NodeJS - React - Tailwind - SQL - HTML - CSS
 * **Tecnologias que eu estou estudando:** React - Tailwind
-* **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio
+* **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio.
 ---
 <div display="flex" align="center" justify-content="center">
 <!--   <a href="https://github.com/rdGxd">
