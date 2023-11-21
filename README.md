@@ -26,7 +26,7 @@ Meu nome é Rodrigo. Atualmente moro em Salvador - BA, Brasil e meu trabalho é 
 * **Nome**: Rodrigo Silva
 * **Idade**: 25
 * **Morando em**: Salvador - BA, Brasil
-* **Tecnologias que utilizo:** JavaScript/TypeScript - NodeJS - React - Styled_Components - SQL - HTML - CSS
+* **Tecnologias que utilizo:** JavaScript/TypeScript - NodeJS - Styled_Components - SQL - HTML - CSS
 * **Tecnologias que eu estou estudando:** React - Tailwind - NextJS
 * **Universidade**: Análise e Desenvolvimento de Sistemas - Estácio.
 ---
