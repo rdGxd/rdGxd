@@ -1,5 +1,9 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+<!-- ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
+
 ## 💫 Sobre mim:
 - Me chamo Rodrigo Silva, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 - Tenho foco em atuação no desenvolvimento Frontend com Javascript mas também me aventuro no Backend.
@@ -19,9 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-<!-- ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
