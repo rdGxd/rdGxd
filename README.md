@@ -45,6 +45,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdGxd&layout=compact&theme=dark&hide=shell,scss" />
-</p>
+<div display="flex" align="center" justify-content="center">
+  <p>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdGxd&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&hide_border=true" />
+  </p>
+</div>
