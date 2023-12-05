@@ -1,25 +1,10 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!-- ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://streak-stats.demolab.com/?user=rdGxd&theme=dark" />
-</a>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rdGxd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
-
 ## 💫 Sobre mim:
 - Me chamo Rodrigo Silva, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 - Tenho foco em atuação no desenvolvimento Frontend com Javascript mas também me aventuro no Backend.
 
-🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Zod, Node, Banco de dados e Testes
+🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Node, Banco de dados e Testes
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdgxd/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rdgxdd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rdGxd)
