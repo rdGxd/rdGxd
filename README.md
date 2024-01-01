@@ -1,9 +1,11 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## 💫 Sobre mim:
-- Me chamo Rodrigo Silva, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-- Desenvolvedor especializado em Typescript. Com o objetivo de me tornar um Desenvolvedor Full-Stack
-- Atualmente estou estudando Next, React, Typescript, TailwindCSS, Node, Banco de dados e Testes
+- Me chamo Rodrigo Silva, tenho 25 anos Desenvolvedor Fullstack Javascript Júnior com foco no desenvolvimento web com NextJS e NodeJS.
+- Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio. Tenho experiência com desenvolvimento web desde 2022, quando comecei a estudar HTML, CSS e JavaScript.
+- Desde então, venho me aperfeiçoando e estudando novas tecnologias, como ReactJS, NextJS, NodeJS, TypeScript, TailwindCSS, Banco de dados, Testes e entre outras.
+
+Desde então, venho me aperfeiçoando e estudando novas tecnologias, como ReactJS, NextJS, NodeJS, TypeScript, entre outras.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdgxd/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rdgxdd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rdGxd)
