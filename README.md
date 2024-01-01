@@ -2,9 +2,8 @@
 
 ## 💫 Sobre mim:
 - Me chamo Rodrigo Silva, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-- Tenho foco em atuação no desenvolvimento Frontend com Javascript mas também me aventuro no Backend.
-
-🌱 Atualmente estou aprendendo Next, React, Typescript, TailwindCSS, Node, Banco de dados e Testes
+- Desenvolvedor especializado em Typescript. Com o objetivo de me tornar um Desenvolvedor Full-Stack
+- Atualmente estou estudando Next, React, Typescript, TailwindCSS, Node, Banco de dados e Testes
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdgxd/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rdgxdd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rdGxd)
