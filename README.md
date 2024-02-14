@@ -1,7 +1,7 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## 💫 Sobre mim:
-- Me chamo Rodrigo Silva, tenho 25 anos Desenvolvedor Fullstack Javascript Júnior com foco no desenvolvimento web com NextJS e NodeJS.
+- Me chamo Rodrigo Silva, tenho 25 anos Desenvolvedor  web.
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio. Tenho experiência com desenvolvimento web desde 2022, quando comecei a estudar HTML, CSS e JavaScript.
 - Desde então, venho me aperfeiçoando e estudando novas tecnologias, como ReactJS, NextJS, NodeJS, TypeScript, TailwindCSS, Banco de dados, Testes e entre outras.
 
