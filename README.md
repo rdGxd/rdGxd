@@ -32,8 +32,9 @@ Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React,
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-<div display="flex" align="center" justify-content="center">
-  <p>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdGxd&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&hide_border=true" />
-  </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8A9AC&height=120&section=header"/> 
+<div align="center">
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol"/>
 </div>
