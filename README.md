@@ -1,11 +1,11 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8A9AC&height=120&section=header"/> 
+<div align="center">
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol"/>
+</div>
 
-## 💫 Sobre mim:
-- Me chamo Rodrigo Silva, tenho 25 anos Desenvolvedor  web.
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio. Tenho experiência com desenvolvimento web desde 2022, quando comecei a estudar HTML, CSS e JavaScript.
-- Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, Typescript, Java, Spring, Banco de dados, Testes e entre outras.
-
-Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, TypeScript, Java, Spring e entre outras.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Rodrigo+Silva;E+sou+desenvolvedor+fullstack!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdgxd/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rdgxdd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rdGxd)
@@ -19,6 +19,8 @@ Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React,
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Back-end
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,10 +33,8 @@ Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React,
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats:
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8A9AC&height=120&section=header"/> 
-<div align="center">
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol"/>
-</div>
+### Ferramentas
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
