@@ -5,7 +5,7 @@
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio. Tenho experiência com desenvolvimento web desde 2022, quando comecei a estudar HTML, CSS e JavaScript.
 - Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, Typescript, Java, Spring, Banco de dados, Testes e entre outras.
 
-Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, TypeScript, Java, Spring Boot e entre outras.
+Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, TypeScript, Java, Spring e entre outras.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdgxd/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rdgxdd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rdGxd)
