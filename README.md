@@ -3,7 +3,7 @@
 ## 💫 Sobre mim:
 - Me chamo Rodrigo Silva, tenho 25 anos Desenvolvedor  web.
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio. Tenho experiência com desenvolvimento web desde 2022, quando comecei a estudar HTML, CSS e JavaScript.
-- Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, Typescript, Java, Spring Boot, Banco de dados, Testes e entre outras.
+- Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, Typescript, Java, Spring, Banco de dados, Testes e entre outras.
 
 Desde então, venho me aperfeiçoando e estudando novas tecnologias, como React, NodeJS, TypeScript, Java, Spring Boot e entre outras.
 
