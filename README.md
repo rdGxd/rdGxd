@@ -39,3 +39,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Github+Stats)](https://git.io/typing-svg)
+<p>
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=rdGxd&theme=dark" />
+</p>
+
