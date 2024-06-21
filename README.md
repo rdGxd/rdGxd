@@ -1,9 +1,9 @@
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8A9AC&height=120&section=header"/> 
 <div align="center">
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol"/>
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol">
+  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Rodrigo+Silva;E+sou+desenvolvedor+fullstack!)](https://git.io/typing-svg)
