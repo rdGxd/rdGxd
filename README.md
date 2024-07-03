@@ -6,7 +6,7 @@
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Rodrigo+Silva;E+sou+desenvolvedor+fullstack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Rodrigo;E+sou+desenvolvedor+fullstack!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdgxd/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rdgxdd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rdGxd)
