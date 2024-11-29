@@ -45,9 +45,3 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Github+Stats)](https://git.io/typing-svg)
-<p>
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rdGxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=rdGxd&theme=dark" />
-</p>
-
