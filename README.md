@@ -3,7 +3,6 @@
 <div align="center">
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol"/>
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rdGxd&theme=dark&exclude=HTML,CSS,Portugol">
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdGxd&theme=dark"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Rodrigo;E+sou+desenvolvedor+fullstack!)](https://git.io/typing-svg)
