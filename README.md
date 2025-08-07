@@ -31,6 +31,7 @@
 ## 💻 Tecnologias & Ferramentas
 
 ### Front-end
+
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Markdown](https://img.shields.io/badge/React--Markdown-3DA1FF?style=for-the-badge)
@@ -41,6 +42,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 
 ### Back-end
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -48,6 +50,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Banco de Dados & ORM
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -57,33 +60,37 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0C3B6E?style=for-the-badge)
 
 ### Validação & Utilitários
+
 ![Zod](https://img.shields.io/badge/Zod-3E67D2?style=for-the-badge&logo=zod&logoColor=white)
 ![class-validator](https://img.shields.io/badge/class--validator-4B8BBE?style=for-the-badge)
 ![class-transformer](https://img.shields.io/badge/class--transformer-4B8BBE?style=for-the-badge)
 
 ### Segurança & Autenticação
+
 ![bcryptjs](https://img.shields.io/badge/bcryptjs-FF6F61?style=for-the-badge&logo=bcrypt&logoColor=white)
 ![Passport](https://img.shields.io/badge/passport-000000?style=for-the-badge&logo=passport&logoColor=white)
 ![Helmet](https://img.shields.io/badge/Helmet-3C4B57?style=for-the-badge&logo=helmet&logoColor=white)
 ![jose](https://img.shields.io/badge/Jose-003B57?style=for-the-badge)
 
 ### Testes
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9FCA?style=for-the-badge&logo=vitest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-6E9FCA?style=for-the-badge)
 
-### Sanitização & Markdown
+### Markdown & Sanitização
+
 ![sanitize-html](https://img.shields.io/badge/Sanitize--HTML-FF5C5C?style=for-the-badge)
 ![rehype-sanitize](https://img.shields.io/badge/Rehype--Sanitize-6B7280?style=for-the-badge)
 ![remark-gfm](https://img.shields.io/badge/Remark--GFM-6B7280?style=for-the-badge)
 
 ### Ferramentas & Dev
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
@@ -95,7 +102,9 @@ Fique à vontade para me chamar nas redes sociais ou abrir uma issue caso queira
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com foco em tecnologias modernas como JavaScript, TypeScript, React, Next.js, Node.js, NestJS, e bancos SQL/NoSQL. Tenho experiência com integração, testes, e desenvolvimento de APIs robustas e escaláveis.
+Sou desenvolvedor Full Stack com foco em tecnologias modernas como JavaScript, TypeScript, React, Next.js, Node.js e NestJS, além de experiência sólida com Java, Spring Boot e Hibernate. Tenho atuado na construção de APIs escaláveis, integrações com bancos de dados SQL/NoSQL, autenticação, testes automatizados e boas práticas de desenvolvimento.
+
+Sempre em busca de aprender mais, colaborar em projetos e contribuir para soluções eficientes.
 
 ---
 
