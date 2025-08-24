@@ -1,9 +1,16 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Rodrigo**, desenvolvedor **Full Stack** apaixonado por tecnologia, aprendizado contínuo e criação de aplicações web modernas.  
-Trabalho principalmente com **Next.js, React, TypeScript, NestJS, Node.js e Express.js**, mas também possuo experiência sólida com **Java, Spring Boot e Hibernate**.  
+Sou **Rodrigo**, desenvolvedor **Full Stack** com foco em **Next.js, React, TypeScript, Node.js e NestJS**.  
+Também tenho experiência sólida em **Java + Spring Boot + Hibernate** e gosto de aplicar **TDD, SOLID, Clean Code e CI/CD** para criar soluções modernas, escaláveis e de impacto.  
 
-Busco sempre aplicar boas práticas como **SOLID, Clean Code, TDD e CI/CD**, criando soluções eficientes, escaláveis e bem arquitetadas. 🚀  
+---
+
+## 🚀 O que eu faço  
+
+- 🌐 Crio aplicações web modernas com **React, Next.js e TailwindCSS**  
+- ⚙️ Desenvolvo APIs escaláveis com **Node.js, NestJS e Express**  
+- ☕ Tenho experiência adicional em **Java + Spring Boot + Hibernate**  
+- ✅ Trabalho com **TDD, SOLID, Clean Code e CI/CD** para garantir qualidade  
 
 ---
 
@@ -32,16 +39,6 @@ Busco sempre aplicar boas práticas como **SOLID, Clean Code, TDD e CI/CD**, cri
 
 ### 🔧 DevOps & Ferramentas  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)  
-
----
-
-## 👤 Sobre mim  
-
-- 🔭 Atualmente focado em projetos **Full Stack** com ênfase em **TypeScript + React + Next.js + Node/NestJS**  
-- ☕ Experiência adicional em **Java + Spring Boot + Hibernate**  
-- 📚 Defensor de **boas práticas de desenvolvimento (SOLID, Clean Code, TDD, CI/CD)**  
-- 🤝 Gosto de colaborar em projetos que tragam impacto real  
-- 🚀 Sempre explorando novas tecnologias e metodologias ágeis  
 
 ---
 
