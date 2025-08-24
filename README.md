@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Rodrigo Hora Silva**, desenvolvedor **Full Stack** apaixonado por tecnologia, aprendizado contínuo e criação de aplicações web modernas.  
+Sou **Rodrigo**, desenvolvedor **Full Stack** apaixonado por tecnologia, aprendizado contínuo e criação de aplicações web modernas.  
 Trabalho principalmente com **Next.js, React, TypeScript, NestJS, Node.js e Express.js**, mas também possuo experiência sólida com **Java, Spring Boot e Hibernate**.  
 
 Busco sempre aplicar boas práticas como **SOLID, Clean Code, TDD e CI/CD**, criando soluções eficientes, escaláveis e bem arquitetadas. 🚀  
