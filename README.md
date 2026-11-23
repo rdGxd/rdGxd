@@ -1,8 +1,8 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Rodrigo**, desenvolvedor **Full Stack** com experiência em **Node.js, NestJS, React, Next.js, TypeScript e Java com Spring Boot**.  
+Sou **Rodrigo**, desenvolvedor **Full Stack** com experiência em **Node.js, NestJS, React, Next.js, TypeScript e Java com Spring Boot**, além de desenvolvimento de jogos e experiências interativas com **Unity e C#**.  
 
-Atuo no desenvolvimento de **APIs REST, microsserviços e aplicações web modernas**, aplicando boas práticas como **TDD, SOLID, Clean Code e CI/CD** para construir soluções escaláveis e robustas.
+Atuo no desenvolvimento de **APIs REST, microsserviços, aplicações web modernas e jogos**, aplicando boas práticas como **TDD, SOLID, Clean Code e CI/CD** para construir soluções escaláveis e robustas.
 
 ---
 
@@ -10,6 +10,7 @@ Atuo no desenvolvimento de **APIs REST, microsserviços e aplicações web moder
 
 - 🌐 Desenvolvimento de interfaces modernas com **React, Next.js e TailwindCSS**  
 - ⚙️ Criação de APIs e microsserviços com **Node.js, NestJS e Spring Boot**  
+- 🎮 Desenvolvimento de jogos e experiências interativas com **Unity e C#**  
 - 🧩 Arquiteturas escaláveis com **microsserviços e mensageria (RabbitMQ)**  
 - ☁️ Integração com **cloud (AWS e GCP)** e conteinerização com **Docker**  
 - ✅ Garantia de qualidade com **TDD, testes automatizados e boas práticas de engenharia**  
@@ -42,6 +43,10 @@ Atuo no desenvolvimento de **APIs REST, microsserviços e aplicações web moder
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🎮 Game Dev  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🧩 Arquitetura & Cloud  
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
@@ -83,5 +88,3 @@ Atuo no desenvolvimento de **APIs REST, microsserviços e aplicações web moder
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/134087002491584512)  
 
 ---
-
-
